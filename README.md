@@ -135,4 +135,8 @@ npm run preview
 
 ## Licenca
 
-Este projeto e destinado a fins de estudo e portfolio. Adicione uma licenca neste arquivo caso o repositorio seja distribuido publicamente com termos especificos.
+Este projeto e destinado a fins de estudo e portfolio. Aprendizado em React com Vite
+
+Link do Projeto na Vercel: vibe-do-dia.vercel.app
+
+Projeto Desenvolvido por: Karina Sudati :rocket:
