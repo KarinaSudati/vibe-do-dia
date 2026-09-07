@@ -137,6 +137,6 @@ npm run preview
 
 Este projeto e destinado a fins de estudo e portfolio. Aprendizado em React com Vite
 
-Link do Projeto na Vercel: vibe-do-dia.vercel.app
+Link do Projeto na Vercel: https://vibe-do-dia.vercel.app/
 
 Projeto Desenvolvido por: Karina Sudati :rocket:
